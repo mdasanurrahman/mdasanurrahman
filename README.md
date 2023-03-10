@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**mdasanurrahman/mdasanurrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ pkg update
+ pkg upgrade
+ pkg install python
+ pkg install git
+ pip install requests
+ pip install bs4
+ pip install futures
+ pip install mechanize
+ cd $HOME 
+ rm -rf SSB
+ git clone https://github.com/mdasanurrahman
+/SSB
